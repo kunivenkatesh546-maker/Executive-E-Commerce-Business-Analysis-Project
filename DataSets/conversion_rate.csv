@@ -1,0 +1,8 @@
+event_name,Unique_User,previous_step_user,adjacent_conversion_rate_pct
+page_view,269792,,
+view_item,61252,269792,22.7
+add_to_cart,12545,61252,20.48
+begin_checkout,9715,12545,77.44
+add_shipping_info,9714,9715,99.99
+add_payment_info,5751,9714,59.2
+purchase,4419,5751,76.84
