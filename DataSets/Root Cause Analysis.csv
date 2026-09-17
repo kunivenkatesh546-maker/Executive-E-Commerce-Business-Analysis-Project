@@ -1,8 +1,0 @@
-event_name,users,previous_step_users,conversion_from_previous_step,drop_off_percentage
-page_view,269792,,,
-view_item,61252,269792,22.7,77.3
-add_to_cart,12545,61252,20.48,79.52
-begin_checkout,9715,12545,77.44,22.56
-add_shipping_info,9714,9715,99.99,0.01
-add_payment_info,5751,9714,59.2,40.8
-purchase,4419,5751,76.84,23.16
